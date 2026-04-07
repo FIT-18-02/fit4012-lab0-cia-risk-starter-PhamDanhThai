@@ -4,7 +4,7 @@
 **Họ và tên:** Phạm Danh Thái
 
 **MSSV:** 1871020523
-**Lớp/Nhóm:** CNTT 18-02/ Nhóm 8
+**Lớp/Nhóm:** CNTT 18-02
 
 ---
 
