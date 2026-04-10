@@ -38,7 +38,7 @@ Mã hóa và kiểm tra tính toàn vẹn dữ liệu
 ---
 
 ## 4. Reflection
--Qua bài lab này, em hiểu rõ hơn về mô hình CIA trong an ninh thông tin và cách áp dụng vào hệ thống thực tế. Việc xác định assets giúp nhận diện những gì cần bảo vệ quan trọng nhất. Khi phân tích các sự cố theo CIA, em thấy rõ mỗi loại tấn công sẽ ảnh hưởng đến khía cạnh khác nhau của hệ thống. Đặc biệt, việc tìm ra threat, vulnerability và mitigation giúp em hiểu cách hệ thống bị tấn công và cách phòng chống. Điều này rất hữu ích trong việc thiết kế hệ thống an toàn hơn trong tương lai.
++ Qua bài lab này, em hiểu rõ hơn về mô hình CIA trong an ninh thông tin và cách áp dụng vào hệ thống thực tế. Việc xác định assets giúp nhận diện những gì cần bảo vệ quan trọng nhất. Khi phân tích các sự cố theo CIA, em thấy rõ mỗi loại tấn công sẽ ảnh hưởng đến khía cạnh khác nhau của hệ thống. Đặc biệt, việc tìm ra threat, vulnerability và mitigation giúp em hiểu cách hệ thống bị tấn công và cách phòng chống. Điều này rất hữu ích trong việc thiết kế hệ thống an toàn hơn trong tương lai.
 
 
 
