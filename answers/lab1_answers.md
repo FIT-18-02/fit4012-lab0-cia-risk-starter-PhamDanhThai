@@ -13,16 +13,16 @@ Liệt kê ít nhất 2 assets cần bảo vệ.
 
 - Asset 1:Cơ sở dữ liệu điểm sinh viên
 - Asset 2:Tài khoản đăng nhập của giảng viên và sinh viên
-- Asset 3 (nếu có):
+- Asset 3 (nếu có): Cơ sở dữ liệu hệ thống
 
 ---
 
 ## 2. Mapping CIA
 Ghép từng sự cố với CIA.
 
-- Sự cố A -> Sinh viên xem được điểm của người khác → Confidentiality
-- Sự cố B -> Điểm bị sửa trái phép → Integrity
-- Sự cố C -> Hệ thống bị sập, không truy cập được → Availability
+- Sự cố A -> Confidentiality
+- Sự cố B -> Integrity
+- Sự cố C -> Availability
 
 ---
 
@@ -41,8 +41,6 @@ Mã hóa và kiểm tra tính toàn vẹn dữ liệu
 Qua bài lab này, em hiểu rõ hơn về mô hình CIA gồm Confidentiality, Integrity và Availability trong bảo mật hệ thống. Việc xác định tài sản cần bảo vệ là bước quan trọng để đánh giá rủi ro. Ngoài ra, em nhận thấy mỗi sự cố đều liên quan đến một yếu tố trong CIA và cần có biện pháp phù hợp để giảm thiểu rủi ro. Bài lab cũng giúp em hiểu rõ hơn về mối quan hệ giữa threat, vulnerability và mitigation. Đây là nền tảng quan trọng để thiết kế hệ thống an toàn trong thực tế.
 
 
-
----
 
 ## 5. Bonus Flag
 A → Confidentiality (C)
