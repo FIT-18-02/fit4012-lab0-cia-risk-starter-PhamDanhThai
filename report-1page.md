@@ -14,7 +14,8 @@
 - Hoàn thiện bài làm trong repo và commit/push lên GitHub.
 
  3. Kết quả chính
--Assets:
+    
+- Assets:
 - Student grade database
 - Login credentials
 - 
