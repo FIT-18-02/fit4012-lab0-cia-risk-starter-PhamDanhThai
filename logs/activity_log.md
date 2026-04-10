@@ -14,6 +14,6 @@
 - [X] 10:00 - Push repo và kiểm tra link nộp
 
 ## Ghi chú thêm
-- Khó khăn gặp phải:
-- Cách em xử lý:
-- Điều em học được từ bài lab:
+- Khó khăn gặp phải: Ban đầu em hơi khó phân biệt giữa ba yếu tố CIA (Confidentiality, Integrity, Availability) và chưa chắc chắn sự cố thuộc loại nào. Ngoài ra, việc xác định threat và vulnerability cũng dễ bị nhầm lẫn.
+- Cách em xử lý: Em dựa vào gợi ý trong đề (ví dụ: điểm bị sửa → Integrity, không đăng nhập được → Availability, dữ liệu bị lộ → Confidentiality). Sau đó em phân tách rõ từng phần: threat là mối đe dọa, vulnerability là điểm yếu, mitigation là cách khắc phục.
+- Điều em học được từ bài lab: Điều em học được từ bài lab: Em hiểu rõ hơn về mô hình CIA trong bảo mật thông tin và cách áp dụng vào thực tế. Ngoài ra, em học được cách phân tích một sự cố bảo mật theo hướng logic gồm threat, vulnerability và mitigation. Điều này giúp em có tư duy tốt hơn khi đánh giá rủi ro trong hệ thống.
