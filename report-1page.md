@@ -23,6 +23,7 @@
 - Sự cố A -> Confidentiality (lộ điểm sinh viên cho người không có quyền)
 - Sự cố B -> Integrity (điểm bị sửa trái phép)
 - Sự cố C -> Availability (hệ thống bị sập, không truy cập được)
+- Phân tích sự cố B:
 - Threat: Hacker hoặc sinh viên truy cập trái phép để thay đổi điểm.
 - Vulnerability:Mật khẩu yếu hoặc bị lộ; không có phân quyền rõ ràng; thiếu cơ chế ghi log
 - Mitigation:Sử dụng xác thực mạnh (mật khẩu + OTP); phân quyền rõ ràng; ghi log và kiểm tra lịch sử
