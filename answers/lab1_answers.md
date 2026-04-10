@@ -38,7 +38,7 @@ Mã hóa và kiểm tra tính toàn vẹn dữ liệu
 ---
 
 ## 4. Reflection
-Qua bài lab này, em hiểu rõ hơn về mô hình CIA gồm Confidentiality, Integrity và Availability trong bảo mật hệ thống. Việc xác định tài sản cần bảo vệ là bước quan trọng để đánh giá rủi ro. Ngoài ra, em nhận thấy mỗi sự cố đều liên quan đến một yếu tố trong CIA và cần có biện pháp phù hợp để giảm thiểu rủi ro. Bài lab cũng giúp em hiểu rõ hơn về mối quan hệ giữa threat, vulnerability và mitigation. Đây là nền tảng quan trọng để thiết kế hệ thống an toàn trong thực tế.
+Viết 5-7 dòng. Qua bài lab này, em hiểu rõ hơn về mô hình CIA trong an ninh thông tin và cách áp dụng vào hệ thống thực tế. Việc xác định assets giúp nhận diện những gì cần bảo vệ quan trọng nhất. Khi phân tích các sự cố theo CIA, em thấy rõ mỗi loại tấn công sẽ ảnh hưởng đến khía cạnh khác nhau của hệ thống. Đặc biệt, việc tìm ra threat, vulnerability và mitigation giúp em hiểu cách hệ thống bị tấn công và cách phòng chống. Điều này rất hữu ích trong việc thiết kế hệ thống an toàn hơn trong tương lai.
 
 
 
