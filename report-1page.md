@@ -29,4 +29,4 @@
 - Mitigation:Sử dụng xác thực mạnh (mật khẩu + OTP); phân quyền rõ ràng; ghi log và kiểm tra lịch sử
 
 ### 4. Kết luận ngắn
-Qua bài lab này, em hiểu rõ hơn về mô hình CIA và cách áp dụng vào hệ thống thực tế. Em nhận ra rằng mỗi sự cố đều có thể liên quan đến nhiều yếu tố bảo mật. Phần khó nhất là xác định các vulnerability ẩn trong hệ thống. Khi phân tích an toàn thông tin, cần xem xét toàn bộ chu kỳ sống của dữ liệu và tất cả các điểm tiếp xúc có thể bị tấn công.
+Qua bài lab này, em đã hiểu rõ hơn về mô hình CIA (Confidentiality, Integrity, Availability) trong an ninh thông tin và cách áp dụng chúng vào các hệ thống thực tế. Việc xác định assets giúp em nhận diện được những tài sản quý giá cần được ưu tiên bảo vệ. Khi phân tích các sự cố theo mô hình CIA, em thấy rõ mỗi loại hình tấn công sẽ gây ra những ảnh hưởng khác nhau tới hệ thống. Việc tìm ra threat, vulnerability và đề xuất mitigation giúp em có cái nhìn tổng quan về cách phòng thủ. Những kiến thức này thực sự rất hữu ích cho việc thiết kế và vận hành các hệ thống an toàn trong tương lai.
