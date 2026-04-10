@@ -2,16 +2,16 @@
 
 Điền ngắn gọn quá trình làm bài. Có thể thêm hoặc bớt dòng.
 
-- [X] 09:00 - Nhận starter repo / accept assignment / fork repo
-- [X] 09:05 - Clone repo về máy
-- [X] 09:10 - Đọc đề bài và xác định assets
-- [X] 09:20 - Hoàn thành CIA mapping
-- [X] 09:30 - Viết threat / vulnerability / mitigation
-- [X] 09:40 - Hoàn thành report-1page
-- [X] 09:45 - Commit lần 1
-- [X] 09:50 - Chỉnh sửa sau khi tự kiểm
-- [X] 09:55 - Commit lần 2
-- [X] 10:00 - Push repo và kiểm tra link nộp
+- [x] 09:00 - Nhận starter repo / accept assignment / fork repo
+- [x] 09:05 - Clone repo về máy
+- [x] 09:10 - Đọc đề bài và xác định assets
+- [x] 09:20 - Hoàn thành CIA mapping
+- [x] 09:30 - Viết threat / vulnerability / mitigation
+- [x] 09:40 - Hoàn thành report-1page
+- [x] 09:45 - Commit lần 1
+- [x] 09:50 - Chỉnh sửa sau khi tự kiểm
+- [x] 09:55 - Commit lần 2
+- [x] 10:00 - Push repo và kiểm tra link nộp
 
 ## Ghi chú thêm
 - Khó khăn gặp phải: Ban đầu em hơi khó phân biệt giữa ba yếu tố CIA (Confidentiality, Integrity, Availability) và chưa chắc chắn sự cố thuộc loại nào. Ngoài ra, việc xác định threat và vulnerability cũng dễ bị nhầm lẫn.
