@@ -18,9 +18,9 @@
 
 **CIA mapping:**
 
-- Sự cố A: Sinh viên xem được điểm của người khác → **Confidentiality**  
-- Sự cố B: Điểm bị sửa trái phép → **Integrity**  
-- Sự cố C: Hệ thống bị sập, không truy cập được → **Availability**
+incident_a: Sinh viên xem được điểm của người khác → Confidentiality
+incident_b: Điểm bị sửa trái phép → Integrity
+incident_c: Hệ thống bị sập, không truy cập được → Availability
 - 
 **Phân tích sự cố B:**
 - Threat: Hacker hoặc người dùng nội bộ chỉnh sửa điểm trái phép  
