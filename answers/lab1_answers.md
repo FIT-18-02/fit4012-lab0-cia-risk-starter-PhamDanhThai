@@ -28,10 +28,10 @@ Ghép từng sự cố với CIA.
 ---
 
 ## 3. Phân tích sự cố B
-- **Threat:** Hacker hoặc người dùng nội bộ chỉnh sửa điểm trái phép
-- **Vulnerability:** - Không kiểm tra phân quyền chặt chẽ
+- Threat: Hacker hoặc người dùng nội bộ chỉnh sửa điểm trái phép
+- Vulnerability: - Không kiểm tra phân quyền chặt chẽ
     - Không có cơ chế log hoặc xác thực thay đổi dữ liệu
-- **Mitigation:**
+- Mitigation:
     - Áp dụng phân quyền (Role-based access control)
     - Ghi log tất cả thay đổi dữ liệu
     - Sử dụng xác thực 2 lớp (2FA)
